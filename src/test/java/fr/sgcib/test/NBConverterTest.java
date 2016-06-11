@@ -13,7 +13,7 @@ import org.junit.Test;
 public class NBConverterTest {
 
 	/**
-	 * Verification si conversion est ok 
+	 * Verification si conversion est ok  
 	 */
 	@Test
 	public void buildTest(){

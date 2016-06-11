@@ -5,7 +5,7 @@ import java.util.Map;
 
 
 /**
- * Conversion nombre 1 à 100 en string suivants les regles SGCIB
+ * Conversion nombre 1 à 100 en string suivants les regles SGCIB 
  * @author Mohand
  * @date 09/06/2016
  */
@@ -22,7 +22,7 @@ public class NBConverter {
 		//Traitement des diviseurs
 		Map<Integer, StringBuffer> strNumberMap = diviseurs ();
 		
-		//Traitement des contenus
+		//Traitement des contenus 
 		contient (strNumberMap);
 
 		//Affichage du résultat
